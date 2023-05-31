@@ -1,4 +1,4 @@
-.imagen {
+.imagenes {
   width: 100px;
   height: 100px;
 }
@@ -7,5 +7,5 @@ h1 {
   font-size: 20px;
 }
 .encabezado {
-  background-color: brown;
+  background-color: rgb(228, 105, 176);
 }
